@@ -5,7 +5,7 @@
 - Download or clone this repository
 - Change directory to the recently cloned repository folder or unziped folder
 - Run following commands after clone the project
-- cd User Authentication Web App With Python and Django
+- cd UserAuthentication
 - pip install virtualenv
 - virtualenv .
 - (activate virtual env)
